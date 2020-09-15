@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-![Leewonje's Github Stats](https://github-readme-stats.vercel.app/api?username=leewonje418&show_icons=true)
 [![Leewonje418's github stats](https://github-readme-stats.vercel.app/api?username=leewonje418)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
