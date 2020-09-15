@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
-<b><h2>I currently learning</h2>
+<b><h2>I'm currently learning</h2>
   - Node.js, Javascript, Typescript, 
   - Sequelize, MySQL, MongoDB
   - Java, Spring, JPA
