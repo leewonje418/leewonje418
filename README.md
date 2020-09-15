@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leewonje418&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
-<b>I currently learning
+<b><h2>I currently learning</h2>
   - node.js, javascript, typescript
   - java, spring, Jpa
   - C#
