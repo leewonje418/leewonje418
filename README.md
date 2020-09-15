@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 <b><h2>I currently learning</h2>
