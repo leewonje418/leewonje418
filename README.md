@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Leewonje418's github stats](https://github-readme-stats.vercel.app/api?username=leewonje418)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
 <br>
 <br>
 <b><h2>I currently learning</h2>
