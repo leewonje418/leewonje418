@@ -6,6 +6,6 @@
 <b><h2>I'm currently learning</h2>
   - Node.js, Javascript, Typescript, 
   - Sequelize, MySQL, MongoDB
-  - Java, Spring, JPA
+  - Java, SpringBoot, JPA
   - C#
   - Amazon AWS
