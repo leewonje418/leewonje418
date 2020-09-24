@@ -7,3 +7,4 @@
   - Java, SpringBoot, JPA
   - C#
   - Amazon AWS
+  - My Laptop is broken TOT (DAY 1)
