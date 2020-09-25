@@ -7,4 +7,4 @@
   - Java, SpringBoot, JPA
   - C#
   - Amazon AWS
-  - I currently backup my laptop
+  - I'm currently backup my laptop
