@@ -8,3 +8,4 @@
   - C#
   - Amazon AWS
   - I'm currently backup my laptop
+  - I have enteritis TOT (DAY 3)
