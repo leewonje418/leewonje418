@@ -2,7 +2,7 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leewonje418&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <b><h2>I'm currently learning</h2>
-  - Node.js, Javascript, Typescript
+  - Node.js, React, Javascript, Typescript
   - Sequelize, MySQL
   - Java, SpringBoot, JPA
   - C#
