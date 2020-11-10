@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there &fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hello!&fontSize=60&fontAlignY=35)
 ![leewonje418's github stats](https://github-readme-stats.vercel.app/api?username=leewonje418&count_private=true)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leewonje418&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
