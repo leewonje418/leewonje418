@@ -1,5 +1,3 @@
-<h2>Hi there!</h2>
-<br>
 ![leewonje418's github stats](https://github-readme-stats.vercel.app/api?username=leewonje418&count_private=true)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leewonje418&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
