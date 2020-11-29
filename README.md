@@ -8,6 +8,7 @@
   - Java, SpringBoot, JPA
   - C#
   - I'm currently backup my laptop
+
 <b><h2>Things I want to learn</h2>  
   - Kotlin
   - Amazon AWS or Docker 
