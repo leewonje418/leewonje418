@@ -7,7 +7,8 @@
   - Sequelize, TypeORM, MySQL, MongoDB
   - Java, SpringBoot, JPA
   - C#
-  <br>
+  
+  
   <b><h2>Things I want to learn</h2>  
   - Kotlin
   - Amazon AWS or Docker 
