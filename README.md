@@ -15,3 +15,4 @@
   - React
   - flask or Django
   - Security
+  - Flutter
