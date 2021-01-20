@@ -15,4 +15,5 @@
   - React
   - flask or Django
   - Security
+  - Data Science
   - Flutter
