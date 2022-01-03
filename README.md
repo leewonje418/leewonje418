@@ -5,6 +5,7 @@
 <b><h2>Skils</h2>
   - express, Javascript, Typescript
   - Sequelize, TypeORM, MySQL, MongoDB
+  - Python, Django, DjangoRestFramework
   - Java, SpringBoot, JPA
   - C#
   
@@ -13,7 +14,7 @@
   - Kotlin
   - Amazon AWS or Docker 
   - React
-  - flask or Django
+  - flask
   - Security
   - Data Science
   - Flutter
