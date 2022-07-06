@@ -3,18 +3,8 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leewonje418&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <b><h2>Skils</h2>
-  - express, Javascript, Typescript
-  - Sequelize, TypeORM, MySQL, MongoDB
-  - Python, Django, DjangoRestFramework
+  - express, NestJS, Javascript, Typescript
+  - Sequelize, TypeORM, Prisma, MySQL, MongoDB, DynamoDB
   - Java, SpringBoot, JPA
+  - Python, Django, DjangoRestFramework
   - C#
-  
-  
-  <b><h2>Things I want to learn</h2>  
-  - Kotlin
-  - Amazon AWS or Docker 
-  - React
-  - flask
-  - Security
-  - Data Science
-  - Flutter
